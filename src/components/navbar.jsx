@@ -18,7 +18,7 @@ function Navbar(props) {
     // console.log(props)
 
     return (
-        <div className="navbar h-min-[100px] py-2 bg-[#36373a] flex justify-center gap-4 items-center sm:flex-row flex-col" id="navbar">
+        <div className="navbar sm:h-[100px] h-full py-2 bg-[#36373a] flex justify-center gap-4 items-center sm:flex-row flex-col" id="navbar">
             <div className='hidden sm:block'>
 
             <button id="random" onClick={() => props.newList(1)} className="btn">
