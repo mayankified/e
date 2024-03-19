@@ -210,8 +210,8 @@ function Visualizer() {
             <footer className='my-6 w-full text-center font-bold text-white' >
                 <p className='flex sm:flex-row justify-center flex-col'>
                     
-                    <a href="https://github.com/mayankified" target="_blank" rel="noopener noreferrer" className="link">
-                        Mayankified
+                    <a href="https://github.com/hanushajain66" target="_blank" rel="noopener noreferrer" className="link">
+                       Hanusha
                     </a>
                 </p>
             </footer>
